@@ -1,5 +1,3 @@
-"# JS-Beginning" 
-
 <h1 align="center">
 <br>
   <img src="" width="600">
